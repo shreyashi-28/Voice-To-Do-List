@@ -17,9 +17,6 @@ It lets users add, mark, and delete tasks using voice commands.
    - `"Mark Task 1"`
 3. Watch the task list update automatically.
 
-## 🌐 Live Demo
-[Click here to try it out](https://shreyashi-28.github.io/Voice-To-Do-List/) *(enable microphone access)*
-
 ## 📁 Tech Stack
 - HTML5
 - CSS3
