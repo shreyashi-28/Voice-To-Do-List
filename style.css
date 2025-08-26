@@ -1,0 +1,46 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+.container{
+    background-color: rgb(104, 194, 224);
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 8px wheat;
+    width: 400px;
+    text-align: center;
+}
+h1{
+    color: #333;
+    margin-bottom: 30px;
+}
+#taskList{
+    list-style: none;
+    padding: 0px;
+    margin-bottom: 30px;
+}
+#taskList li{
+    padding: 10px;
+    margin: 5px 0;
+    background-color: aliceblue;
+    border-radius: 5px;
+    position: relative;
+}
+#startBtn{
+    background-color: rgb(22, 177, 22);
+    color: white;
+    font-size: 18px;
+    border: none;
+    padding: 10px 20px;
+}
+.info{
+    color: navy;
+}
+#status{
+    color: #333;
+
+}
